@@ -11,7 +11,7 @@ I'm a CS Student, passionate about Coding, Automation, and Secuirty. I enjoy tes
 ## Technologies & Tools
 
 ### Programming Languages
-- HTML
+- C
 - Python
 - Java
 
